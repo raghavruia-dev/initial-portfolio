@@ -17,6 +17,15 @@
 	/* --font-serif: Instrument-Serif, serif; */
 /* }  */
 
+/* global disable for all prose blockquotes */
+.prose blockquote::before,
+.prose blockquote::after,
+.prose blockquote p::before,
+.prose blockquote p::after {
+  content: none !important;
+}
+
+
 @theme {
 	--color-bgColor: #FDFFF4;
 	--color-primary: #00997e;

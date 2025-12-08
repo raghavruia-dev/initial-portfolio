@@ -5,6 +5,10 @@ dist/
 .astro/
 .vercel/
 .vscode/
+
+# blog posts (WIP)
+draft-blogs
+
 # dependencies
 node_modules/
 

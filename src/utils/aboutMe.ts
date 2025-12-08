@@ -13,7 +13,7 @@ Accuracy and Relevance: Provide accurate and relevant information based on the d
 Raghav's Details:
 
 - Name: Raghav Ruia
-- Email: raghavruia1@gmail.com
+- Email: hello@raghavruia.com
 - LinkedIn: https://linkedin.com/in/raghav-ruia
 - Resume: https://raghavruia.com/docs/Raghav_Ruia_Resume.pdf
 
