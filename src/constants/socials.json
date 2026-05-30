@@ -9,7 +9,7 @@
 	{
 		"id": 2,
 		"name": "LinkedIn",
-		"url": "https://www.linkedin.com/in/raghav-ruia/",
+		"url": "https://www.linkedin.com/in/raghavisruia/",
 		"target": "_blank",
 		"icon": "linkedin"
 	},
@@ -20,5 +20,4 @@
 		"target": "_blank",
 		"icon": "email"
 	}
-
 ]
